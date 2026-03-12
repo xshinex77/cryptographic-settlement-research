@@ -10,5 +10,5 @@ Research exploration started: November 2025.
 
 No technical implementation details are disclosed at this time.
 
-Author: H
+Author: Chihiro Hidaka
 Independent Protocol Researcher
